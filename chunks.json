@@ -1,0 +1,277 @@
+[
+  {
+    "id": 0,
+    "text": "RAG Practice Handbook | Page 1 RAG Document Ingestion Practice A 20-page-style practice document for PDF extraction, chunking, embeddings, and vector databases.",
+    "metadata": {
+      "source": "RAG_Practice_20_Page_Company_Handbook.pdf",
+      "page": 1,
+      "chunk_id": 0,
+      "word_start": 0,
+      "word_end": 22
+    }
+  },
+  {
+    "id": 1,
+    "text": "RAG Practice Handbook | Page 2 1. Company Employee Handbook Purpose of This Handbook This handbook explains the general policies, procedures, expectations, and benefits that apply to employees of Northstar Digital Solutions. It is intended to provide a clear reference for everyday workplace questions. Employees should read the handbook carefully and contact Human Resources when a situation is not covered or when clarification is needed. About Northstar Digital Solutions Northstar Digital Solutions is a technology company that develops software products and provides digital services to organizations. The company values reliable engineering, responsible use of information, teamwork, continuous learning, and respectful communication. Employees work across product, engineering, design, operations, sales, finance, and customer support teams. Using This Handbook Policies in this document are written for training and document-search practice. In a real organization, employees should always follow the latest official policy documents and applicable employment laws. Questions involving contracts, compensation, leave",
+    "metadata": {
+      "source": "RAG_Practice_20_Page_Company_Handbook.pdf",
+      "page": 2,
+      "chunk_id": 1,
+      "word_start": 0,
+      "word_end": 150
+    }
+  },
+  {
+    "id": 2,
+    "text": "document are written for training and document-search practice. In a real organization, employees should always follow the latest official policy documents and applicable employment laws. Questions involving contracts, compensation, leave eligibility, or disciplinary matters should be directed to Human Resources.",
+    "metadata": {
+      "source": "RAG_Practice_20_Page_Company_Handbook.pdf",
+      "page": 2,
+      "chunk_id": 2,
+      "word_start": 120,
+      "word_end": 160
+    }
+  },
+  {
+    "id": 3,
+    "text": "RAG Practice Handbook | Page 3 2. Working Hours and Attendance Standard Schedule The standard working schedule is Monday through Friday, with normal working hours from 9:00 a.m. to 5:00 p.m. Employees are expected to be available during core collaboration hours from 10:00 a.m. to 4:00 p.m. Teams may establish different schedules when business requirements make this necessary. Attendance Employees should arrive on time, attend scheduled meetings, and communicate promptly when they expect to be late or absent. Repeated unexplained absences may require a discussion with a manager and Human Resources. Breaks Employees may take reasonable meal and rest breaks according to applicable law and team practice. Employees working remotely should also take appropriate breaks away from their screens. Questions to Ask For RAG practice, useful questions include: What are the standard working hours? What are core collaboration hours? What should an employee do when they will be late? Which",
+    "metadata": {
+      "source": "RAG_Practice_20_Page_Company_Handbook.pdf",
+      "page": 3,
+      "chunk_id": 3,
+      "word_start": 0,
+      "word_end": 150
+    }
+  },
+  {
+    "id": 4,
+    "text": "to Ask For RAG practice, useful questions include: What are the standard working hours? What are core collaboration hours? What should an employee do when they will be late? Which team can clarify attendance questions?",
+    "metadata": {
+      "source": "RAG_Practice_20_Page_Company_Handbook.pdf",
+      "page": 3,
+      "chunk_id": 4,
+      "word_start": 120,
+      "word_end": 155
+    }
+  },
+  {
+    "id": 5,
+    "text": "RAG Practice Handbook | Page 4 3. Annual Leave Eligibility and Planning Full-time employees receive annual paid leave according to their employment terms and applicable company policy. Employees should request planned leave through the approved internal leave system whenever possible. Advance Notice For planned vacations, employees are encouraged to submit requests at least two weeks in advance. Managers review requests based on staffing needs, project schedules, and previously approved leave. Unexpected Leave If an employee needs unexpected time away from work, they should notify their manager as soon as reasonably possible and update the leave system when they return. Carryover Unused annual leave may be subject to carryover limits established by the employee's contract or local requirements. Human Resources can confirm an employee's individual balance and applicable rules.",
+    "metadata": {
+      "source": "RAG_Practice_20_Page_Company_Handbook.pdf",
+      "page": 4,
+      "chunk_id": 5,
+      "word_start": 0,
+      "word_end": 128
+    }
+  },
+  {
+    "id": 6,
+    "text": "RAG Practice Handbook | Page 5 4. Sick Leave and Wellbeing Reporting Illness Employees who are unable to work because of illness should notify their manager as soon as possible. The notification should normally state that the employee is unwell and provide an expected return date when known. Medical Information Employees are not expected to share unnecessary medical details with their manager. Requests for documentation, accommodations, or extended leave should be handled through Human Resources and the appropriate company process. Wellbeing The company encourages employees to maintain healthy work habits, take regular breaks, and raise workload concerns early. Managers should support reasonable adjustments when possible. Return to Work After an extended absence, the manager and employee may agree on a practical return-to-work plan. The goal is to help the employee resume responsibilities safely and effectively.",
+    "metadata": {
+      "source": "RAG_Practice_20_Page_Company_Handbook.pdf",
+      "page": 5,
+      "chunk_id": 6,
+      "word_start": 0,
+      "word_end": 135
+    }
+  },
+  {
+    "id": 7,
+    "text": "RAG Practice Handbook | Page 6 5. Remote Work Policy Eligibility Remote work may be available for roles that can be performed effectively away from a company office. Eligibility depends on role requirements, performance, security needs, team collaboration, and manager approval. Availability Remote employees are expected to remain reachable during agreed working hours and to attend required meetings. A remote arrangement does not change normal performance expectations. Workspace Employees should maintain a suitable workspace that protects confidential information and supports reliable communication. Screens containing company or customer information should not be visible to unauthorized people. Equipment Company-issued devices must be used according to security requirements. Employees should use approved networks and software and should report lost or stolen equipment immediately.",
+    "metadata": {
+      "source": "RAG_Practice_20_Page_Company_Handbook.pdf",
+      "page": 6,
+      "chunk_id": 7,
+      "word_start": 0,
+      "word_end": 120
+    }
+  },
+  {
+    "id": 8,
+    "text": "RAG Practice Handbook | Page 7 6. Employee Benefits Health and Support Eligible employees may have access to health-related benefits, wellness resources, and employee assistance services according to their employment terms and location. Learning Benefits The company may support professional development through training courses, conferences, technical books, certifications, or internal learning sessions. Approval may be required before expenses are incurred. Recognition Teams may recognize employees for exceptional delivery, collaboration, customer support, mentoring, or innovation. Recognition programs can vary over time. Questions Employees should contact Human Resources for current eligibility rules, enrollment periods, benefit limits, and documentation requirements.",
+    "metadata": {
+      "source": "RAG_Practice_20_Page_Company_Handbook.pdf",
+      "page": 7,
+      "chunk_id": 8,
+      "word_start": 0,
+      "word_end": 97
+    }
+  },
+  {
+    "id": 9,
+    "text": "RAG Practice Handbook | Page 8 7. Professional Conduct Respectful Workplace Employees are expected to communicate respectfully and contribute to an inclusive professional environment. Harassment, bullying, threats, discrimination, and retaliation are not acceptable. Conflicts of Interest Employees should disclose situations that could create a conflict between personal interests and company responsibilities. Examples may include outside work that competes with the company or decisions involving a close personal relationship. Communication Professional communication should be clear, appropriate, and considerate. Employees should avoid sharing confidential information in public channels and should use approved systems for sensitive business discussions. Reporting Concerns Employees can raise workplace concerns with their manager, Human Resources, or another approved reporting channel. Retaliation against a person who raises a concern in good faith is prohibited.",
+    "metadata": {
+      "source": "RAG_Practice_20_Page_Company_Handbook.pdf",
+      "page": 8,
+      "chunk_id": 9,
+      "word_start": 0,
+      "word_end": 125
+    }
+  },
+  {
+    "id": 10,
+    "text": "RAG Practice Handbook | Page 9 8. Information Security Passwords Employees must use strong, unique passwords for company accounts and must not share passwords with colleagues. Multi-factor authentication should be enabled wherever required. Phishing Employees should be cautious with unexpected links, attachments, login requests, and urgent payment instructions. Suspicious messages should be reported through the company's security reporting process. Data Handling Confidential company and customer information must only be accessed when needed for legitimate work. Sensitive files should be stored and transmitted using approved systems. Incidents Lost devices, suspected account compromise, accidental disclosure, and other security incidents should be reported immediately to the security or IT team. Early reporting can reduce potential harm.",
+    "metadata": {
+      "source": "RAG_Practice_20_Page_Company_Handbook.pdf",
+      "page": 9,
+      "chunk_id": 10,
+      "word_start": 0,
+      "word_end": 113
+    }
+  },
+  {
+    "id": 11,
+    "text": "RAG Practice Handbook | Page 10 9. Use of Company Equipment Acceptable Use Company computers, phones, accounts, and software are provided primarily for business activities. Limited personal use may be permitted when it does not interfere with work, violate policy, or create security risks. Software Installation Employees should not install unauthorized software or browser extensions on managed devices. Software needed for work should be requested through the approved IT process. Physical Security Employees should lock their screens when stepping away and should keep company devices secure during travel. Devices should not be left unattended in visible locations such as a parked vehicle. Returning Equipment Company property must be returned when employment ends or when equipment is replaced. Employees should not erase required business records unless instructed by IT or another authorized team.",
+    "metadata": {
+      "source": "RAG_Practice_20_Page_Company_Handbook.pdf",
+      "page": 10,
+      "chunk_id": 11,
+      "word_start": 0,
+      "word_end": 132
+    }
+  },
+  {
+    "id": 12,
+    "text": "RAG Practice Handbook | Page 11 10. Professional Development Learning Plans Employees are encouraged to discuss learning goals with their managers. A learning plan may include technical skills, communication skills, leadership development, domain knowledge, or preparation for a certification. Training Requests Employees requesting paid training should explain the business or career value of the activity, estimated cost, and expected time commitment. Approval depends on budget and relevance. Knowledge Sharing Employees are encouraged to share useful knowledge through documentation, presentations, mentoring, code reviews, workshops, and team discussions. Career Conversations Managers should provide opportunities for employees to discuss goals and development. Employees may request feedback about strengths, improvement areas, and possible future responsibilities.",
+    "metadata": {
+      "source": "RAG_Practice_20_Page_Company_Handbook.pdf",
+      "page": 11,
+      "chunk_id": 12,
+      "word_start": 0,
+      "word_end": 111
+    }
+  },
+  {
+    "id": 13,
+    "text": "RAG Practice Handbook | Page 12 11. Performance and Feedback Goals Employees and managers should establish clear goals that are relevant to the team's objectives. Goals should be understandable, measurable when practical, and reviewed when priorities change. Feedback Feedback should be timely, specific, and focused on behaviors or outcomes. Employees are encouraged to ask questions and discuss obstacles rather than waiting until a formal review. Performance Reviews Formal performance reviews may occur on a regular schedule established by the company. Reviews can consider delivery, quality, teamwork, communication, customer impact, and professional growth. Improvement Plans When performance does not meet expectations, a manager may create a documented improvement plan with clear expectations, support, milestones, and review dates.",
+    "metadata": {
+      "source": "RAG_Practice_20_Page_Company_Handbook.pdf",
+      "page": 12,
+      "chunk_id": 13,
+      "word_start": 0,
+      "word_end": 116
+    }
+  },
+  {
+    "id": 14,
+    "text": "RAG Practice Handbook | Page 13 12. Meetings and Collaboration Meeting Practices Meetings should have a clear purpose. Participants should review relevant materials in advance, arrive prepared, and contribute constructively. Meeting organizers should avoid unnecessary invitations. Remote Meetings For virtual meetings, participants should use reliable audio, join on time, and minimize distractions. Cameras may be encouraged for certain collaborative sessions but should follow team norms. Documentation Important decisions should be documented in an approved workspace so that people who were not present can understand the outcome. Disagreement Professional disagreement is acceptable and can improve decisions. Employees should focus on evidence, risks, and alternatives rather than personal criticism.",
+    "metadata": {
+      "source": "RAG_Practice_20_Page_Company_Handbook.pdf",
+      "page": 13,
+      "chunk_id": 14,
+      "word_start": 0,
+      "word_end": 107
+    }
+  },
+  {
+    "id": 15,
+    "text": "RAG Practice Handbook | Page 14 13. Customer and Business Information Confidentiality Employees may encounter customer records, contracts, product plans, pricing information, source code, and other confidential material. Such information must only be used for authorized business purposes. External Sharing Employees should not publish confidential company or customer information on personal websites, social media, public repositories, or external forums without authorization. Customer Communication Customer-facing employees should communicate accurately and professionally. Promises about delivery dates, pricing, security, or product capabilities should be made only within their authority. Records Business records should be stored in approved systems and retained according to applicable company procedures. Employees should not create unofficial copies when an approved system is available.",
+    "metadata": {
+      "source": "RAG_Practice_20_Page_Company_Handbook.pdf",
+      "page": 14,
+      "chunk_id": 15,
+      "word_start": 0,
+      "word_end": 114
+    }
+  },
+  {
+    "id": 16,
+    "text": "RAG Practice Handbook | Page 15 14. Expenses and Travel Business Expenses Reasonable business expenses may be reimbursed when they are necessary for work and comply with the expense policy. Employees should keep receipts and submit claims through the approved process. Travel Approval Business travel generally requires manager or budget-owner approval before reservations are made. Employees should use preferred travel suppliers when required. Meals Business meal reimbursement may depend on location, purpose, participants, and applicable limits. Personal meals outside approved circumstances may not be reimbursable. Expense Questions Finance can clarify reimbursement limits, required receipts, submission deadlines, and treatment of unusual expenses.",
+    "metadata": {
+      "source": "RAG_Practice_20_Page_Company_Handbook.pdf",
+      "page": 15,
+      "chunk_id": 16,
+      "word_start": 0,
+      "word_end": 101
+    }
+  },
+  {
+    "id": 17,
+    "text": "RAG Practice Handbook | Page 16 15. Hiring and Onboarding Recruitment Hiring decisions should be based on job-related qualifications, skills, experience, and business needs. Recruitment processes should be conducted fairly and consistently. New Employee Onboarding New employees normally receive access to required systems, an introduction to company policies, team orientation, and role-specific guidance. Access should be limited to what is necessary for the employee's work. Probation and Early Feedback Where applicable, new employees may have an initial review period. Managers should provide clear expectations and early feedback so that employees understand priorities. Account Security New employees must protect initial account credentials, complete required security training, and use multi-factor authentication when required.",
+    "metadata": {
+      "source": "RAG_Practice_20_Page_Company_Handbook.pdf",
+      "page": 16,
+      "chunk_id": 17,
+      "word_start": 0,
+      "word_end": 111
+    }
+  },
+  {
+    "id": 18,
+    "text": "RAG Practice Handbook | Page 17 16. Leave, Absence, and Emergency Situations Emergency Absence In an emergency, employees should prioritize personal safety and notify their manager when reasonably possible. Detailed explanations are not required when immediate safety is the priority. Family and Personal Needs Additional forms of leave may be available depending on employment terms and local requirements. Human Resources can explain eligibility and documentation. Longer Absences Employees expecting a longer absence should coordinate with their manager and Human Resources so responsibilities can be transferred appropriately. Business Continuity Teams should maintain reasonable documentation of important work so another employee can support essential activities during unexpected absences.",
+    "metadata": {
+      "source": "RAG_Practice_20_Page_Company_Handbook.pdf",
+      "page": 17,
+      "chunk_id": 18,
+      "word_start": 0,
+      "word_end": 106
+    }
+  },
+  {
+    "id": 19,
+    "text": "RAG Practice Handbook | Page 18 17. Resignation and Notice Resignation Employees who decide to leave the company should submit resignation according to the terms of their employment agreement and applicable requirements. Notice Period The required notice period varies by contract and jurisdiction. Employees should confirm their individual requirements with Human Resources. Handover During the notice period, employees should document important responsibilities, complete reasonable handover activities, and return company property as requested. Final Access System access may be adjusted or removed as part of the offboarding process. Employees must not retain or copy confidential company information after leaving.",
+    "metadata": {
+      "source": "RAG_Practice_20_Page_Company_Handbook.pdf",
+      "page": 18,
+      "chunk_id": 19,
+      "word_start": 0,
+      "word_end": 98
+    }
+  },
+  {
+    "id": 20,
+    "text": "RAG Practice Handbook | Page 19 18. Quick Reference FAQ Common Questions 1. What are normal working hours? 9:00 a.m. to 5:00 p.m. 2. What are core collaboration hours? 10:00 a.m. to 4:00 p.m. 3. How far in advance should planned leave be requested? Preferably two weeks. 4. Who handles benefit questions? Human Resources. 5. Who should receive security incident reports? The security or IT team. 6. Can I install any software? No; use the approved IT process. 7. Can I work remotely? It depends on role, performance, security, team needs, and approval. RAG Practice Questions Try asking your future RAG system: What are the core collaboration hours? How should an employee report an unexpected absence? What should I do if my company laptop is stolen? Who can explain benefit eligibility? What are the rules for installing software? How should confidential customer information be handled? What should happen during an",
+    "metadata": {
+      "source": "RAG_Practice_20_Page_Company_Handbook.pdf",
+      "page": 19,
+      "chunk_id": 20,
+      "word_start": 0,
+      "word_end": 150
+    }
+  },
+  {
+    "id": 21,
+    "text": "if my company laptop is stolen? Who can explain benefit eligibility? What are the rules for installing software? How should confidential customer information be handled? What should happen during an employee handover? Chunking Practice For this document, experiment with chunks of approximately 300–500 words and an overlap of 50–100 words. Compare retrieval quality with no overlap and with overlap. Store the original chunk text together with metadata such as page number, section title, and source filename.",
+    "metadata": {
+      "source": "RAG_Practice_20_Page_Company_Handbook.pdf",
+      "page": 19,
+      "chunk_id": 21,
+      "word_start": 120,
+      "word_end": 196
+    }
+  },
+  {
+    "id": 22,
+    "text": "RAG Practice Handbook | Page 20 19. RAG Implementation Notes Stage 1 — Extract Use a Python PDF library such as pypdf or pdfplumber to read the document. Extract text page by page and preserve page numbers as metadata. Stage 2 — Clean Remove unnecessary repeated whitespace while keeping headings and paragraph boundaries where possible. Cleaning should improve consistency without destroying useful information. Stage 3 — Chunk Split the extracted text into manageable pieces. A simple word-based approach can start with 300–500 words per chunk and 50–100 words of overlap. Stage 4 — Embed Convert each chunk into a numerical embedding using an embedding model. The embedding captures semantic information so related questions and passages can be compared. Stage 5 — Store Store each embedding with its text and metadata in a vector database such as Chroma, FAISS, Qdrant, Weaviate, or Pinecone. Stage 6 — Retrieve When a user asks",
+    "metadata": {
+      "source": "RAG_Practice_20_Page_Company_Handbook.pdf",
+      "page": 20,
+      "chunk_id": 22,
+      "word_start": 0,
+      "word_end": 150
+    }
+  },
+  {
+    "id": 23,
+    "text": "— Store Store each embedding with its text and metadata in a vector database such as Chroma, FAISS, Qdrant, Weaviate, or Pinecone. Stage 6 — Retrieve When a user asks a question, create an embedding for the question, search for similar document chunks, and return the highest-quality matches to the language model. Stage 7 — Evaluate Test the system with questions whose answers appear in different sections. Check whether retrieved chunks contain enough context and whether overlap improves answers near section boundaries.",
+    "metadata": {
+      "source": "RAG_Practice_20_Page_Company_Handbook.pdf",
+      "page": 20,
+      "chunk_id": 23,
+      "word_start": 120,
+      "word_end": 202
+    }
+  },
+  {
+    "id": 24,
+    "text": "RAG Practice Handbook | Page 21 20. Final Practice Checklist Your Goal By the end of the exercise, you should be able to provide any suitable PDF to an ingestion script and have the script automatically extract its text, split it into chunks, create embeddings, and store those chunks in a vector database. Checklist ■ PDF loads successfully. ■ Text is extracted page by page. ■ Empty or noisy text is cleaned. ■ Chunks are approximately 300–500 words. ■ Neighboring chunks overlap. ■ Each chunk has metadata. ■ Embeddings are generated. ■ Embeddings and text are stored. ■ Similarity search returns relevant chunks. ■ Questions can be answered from retrieved context. Suggested Command A finished project can eventually work like this: python ingest.py company_handbook.pdf. The script should perform the full ingestion pipeline without requiring manual copy-and-paste preparation.",
+    "metadata": {
+      "source": "RAG_Practice_20_Page_Company_Handbook.pdf",
+      "page": 21,
+      "chunk_id": 24,
+      "word_start": 0,
+      "word_end": 137
+    }
+  }
+]
