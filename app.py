@@ -33,8 +33,26 @@ def load_chroma():
 
 @st.cache_resource
 def load_groq():
-    load_dotenv()
-    return Groq(api_key=os.getenv("GROQ_API_KEY"))
+    """Load Groq client using either Streamlit Secrets (deployed) or .env (local)."""
+    api_key = None
+    
+    # Try Streamlit Secrets first (for deployed apps)
+    try:
+        api_key = st.secrets["GROQ_API_KEY"]
+    except Exception:
+        pass
+    
+    # Fall back to .env (for local development)
+    if not api_key:
+        load_dotenv()
+        api_key = os.getenv("GROQ_API_KEY")
+    
+    if not api_key:
+        raise ValueError(
+            "GROQ_API_KEY not found. Add it to .env (local) or Streamlit Secrets (deployed)."
+        )
+    
+    return Groq(api_key=api_key)
 
 
 embedder = load_embedder()
